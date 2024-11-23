@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/touropick/static/css/main.0ba67531.css",
-    "main.js": "/touropick/static/js/main.c1ac32a4.js",
+    "main.js": "/touropick/static/js/main.eabf523c.js",
     "static/js/453.9ef2bb1f.chunk.js": "/touropick/static/js/453.9ef2bb1f.chunk.js",
+    "static/media/logo_footer.png": "/touropick/static/media/logo_footer.d452813d57e53d12454d.png",
     "static/media/logo.png": "/touropick/static/media/logo.286ed210d638f360f814.png",
     "static/media/slick.svg": "/touropick/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/touropick/static/media/slick.a4e97f5a2a64f0ab1323.eot",
@@ -10,11 +11,11 @@
     "static/media/slick.woff": "/touropick/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/touropick/index.html",
     "main.0ba67531.css.map": "/touropick/static/css/main.0ba67531.css.map",
-    "main.c1ac32a4.js.map": "/touropick/static/js/main.c1ac32a4.js.map",
+    "main.eabf523c.js.map": "/touropick/static/js/main.eabf523c.js.map",
     "453.9ef2bb1f.chunk.js.map": "/touropick/static/js/453.9ef2bb1f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0ba67531.css",
-    "static/js/main.c1ac32a4.js"
+    "static/js/main.eabf523c.js"
   ]
 }
